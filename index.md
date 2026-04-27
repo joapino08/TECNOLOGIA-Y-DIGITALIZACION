@@ -16,23 +16,81 @@ En esta parte de la asignatura vamos a trabajar un proyecto desde cero, vamos a 
 
 ---
 
-## 🧭 Organización de las clases
+## 📅 Distribución de sesiones
 
-Sesión 1 Lunes 9:45h aula teoría- Se realizará una introducción al proyecto (presentación del proyecto y repaso de conceptos de domótica).
+### 📘 Sesión 1 — Teoría
+- 🧠 Introducción a circuitos eléctricos  
 
-Sesión 2 Jueves 12:30h laboratorio - Explicación del funcionamiento de sensores de iluminación y de los diferentes componentes del circuito, así como su conexionado.
+🏠 Trabajo en casa:
+- Ejercicios propuestos  
 
-Sesión 3 Lunes 9:45h aula teoría- Elaboración del esquema de conexionado del sistema.
+---
 
-Sesión 4 Jueves 12:30h laboratorio- Montaje del circuito, construcción del circuito en protoboard con Arduino.
+### 🛠️ Sesión 2 — Laboratorio
+- Corrección de ejercicios  
+- Diseño del esquema del circuito  
 
-Sesión 5 Lunes 9:45h laboratorio- Finalización del montaje del circuito y explicación teórica de sentencias básicas con programación de Arduino.
+🏠 Trabajo en casa:
+- Inicio de la memoria  
+- Incluir esquema y justificación  
 
-Sesión 6 Jueves 12:30h laboratorio- Programación, desarrollo del programa para el control de iluminación.
+---
 
-Sesión 7 Lunes 9:45h laboratorio- Pruebas y últimos detalles, ajustes de funcionamiento, ajustes de luminosidad y resolución de errores.
+### 📘 Sesión 3 — Teoría
+- Repaso de circuitos eléctricos  
+- Resolución de dudas  
+- Introducción a Arduino  
 
-Sesión 8 Jueves 12:30h laboratorio- Presentación y evaluación, demostración del prototipo y evaluación final. Presentación de 5 minutos por grupo más 2 minutos de comentarios y evaluación.
+---
+
+### 🔧 Sesión 4 — Laboratorio
+- Montaje del circuito en protoboard  
+
+🏠 Trabajo en casa:
+- Continuar memoria  
+- Añadir imagen del circuito montado  
+
+---
+
+### 📘 Sesión 5 — Teoría
+- Programación de Arduino  
+
+🏠 Trabajo en casa:
+- Ejercicios propuestos  
+
+---
+
+### 💻 Sesión 6 — Laboratorio (I)
+- Programación del sistema  
+- Finalización del montaje  
+
+🏠 Trabajo en casa:
+- Continuación de la memoria  
+
+---
+
+### 💻 Sesión 7 — Laboratorio (II)
+- Pruebas del sistema  
+- Ajustes de programación  
+
+🏠 Trabajo en casa:
+- Continuación de la memoria  
+
+---
+
+### 🧪 Sesión 8 — Laboratorio
+- Resolución de dudas  
+- Ajustes finales  
+
+🏠 Trabajo en casa:
+- Finalización de la memoria  
+
+---
+
+### 🎤 Sesión 9 — Teoría
+- Entrega de la memoria  
+- Presentación del proyecto en clase  
+
 
 En esta página encontraras todo lo necesario para hacer nuestro proyecto.
 
