@@ -13,15 +13,16 @@ Bienvenidos a nuestro próximo proyecto!
 En esta parte de la asignatura vamos a trabajar un proyecto desde cero, vamos a aprender todo lo necesario para construir un sistema de iluminación automática con arduino, y por supuesto lo contruiremos para probarlo. Así que vamos allá!
 
 "¡Avanzar siempre, rendirse jamás!"
+
 ---
 
 ## 🧭 Organización de las clases
 
 
 
-### 🧠 [Teoría]({{ "teoria.md" | relative_url }})
-### 💻 [Práctica]({{ "practica.md" | relative_url }})
-### 🚀 [Proyecto]({{ "proyecto.md" | relative_url }})
+### 🧠 [Teoría](teoria.md)
+### 💻 [Práctica](practica.md)
+### 🚀 [Proyecto](proyecto.md")
 
 ---
 
