@@ -43,20 +43,32 @@ Y por último, el guión del proyecto para seguir paso a paso
 ## 📌 Evaluación
 
 Presentación del proyecto
+
 El alumnado debe realizar una exposición oral en la que debe explicar el proyecto realizado, el conocimiento adquirido y las dificultades encontradas en la realización de este.
+
 La puntuación de esta parte será de como máximo 4 puntos, y aunque la presentación se realice de forma grupal, la evaluación será individual.
 Al finalizar la presentación habrá una serie de preguntas que los alumnados deben responder sin habérselas preparado anteriormente.
 
+
 Memoria del proyecto
 El alumnado, en grupo, debe realizar una memoria escrita dónde incluya:
+
 •	Objetivo del proyecto
+
 •	Diseño del circuito y explicación de este, incluir justificación de porque la elección de los componentes
+
 •	El código utilizado
+
 •	Resultado obtenido
+
 •	Problemas encontrados
+
 •	Propuestas de mejora
+
 •	Conclusiones
+
 La puntuación de esta parte es de como máximo 4 puntos al igual que la presentación.
+
 
 Los restantes 2 puntos se evaluarán mediante observación por parte del profesorado, tanto en las clases de laboratorio como en las clases prácticas. 
 
