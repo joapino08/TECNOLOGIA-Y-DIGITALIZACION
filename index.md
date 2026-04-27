@@ -18,9 +18,9 @@ En esta situación de aprendizaje trabajarás:
 
 ## 🧭 Estructura
 
-### 🧠 [Teoría]({{ "teoria.md" | relative_url }})
-### 💻 [Práctica](practica.md)
-### 🚀 [Proyecto](proyecto.md)
+### 🧠 [Teoría]({{ "/teoria" | relative_url }})
+### 💻 [Práctica]({{ "/practica" | relative_url }})
+### 🚀 [Proyecto]({{ "/proyecto" | relative_url }})
 
 ---
 
