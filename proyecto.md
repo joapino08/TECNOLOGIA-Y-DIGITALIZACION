@@ -54,8 +54,6 @@ El sistema deberá cumplir los siguientes requisitos:
 ---
 
 
----
-
 ## ⭐ Actividad complementaria (opcional)
 
 Para subir nota, podéis ampliar el sistema incluyendo:
