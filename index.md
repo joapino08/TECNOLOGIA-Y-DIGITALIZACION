@@ -71,11 +71,15 @@ La puntuación de esta parte es de como máximo 4 puntos al igual que la present
 
 
 **Observación**
+
 Los restantes 2 puntos se evaluarán mediante observación por parte del profesorado, tanto en las clases de laboratorio como en las clases prácticas. 
 
 
-**Reparto de la puntuación:
+**Reparto de la puntuación:**
+
     Presentación oral		    4 puntos
+    
     Memoria del proyecto		4 puntos
-    Observación directa		    2 puntos**
+    
+    Observación directa		    2 puntos
 
