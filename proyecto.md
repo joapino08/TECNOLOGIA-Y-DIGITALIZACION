@@ -74,4 +74,4 @@ La memoria debe incluir:
 
 ## 📄 Enlace al guión del proyecto
 
-📄 [Descargar guón proyecto](docs/Guión-proyecto.pdf)
+📄 [Descargar guión proyecto](https://raw.githubusercontent.com/joapino08/TECNOLOGIA-Y-DIGITALIZACION/main/Guión-proyecto.pdf)
