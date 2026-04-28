@@ -31,7 +31,7 @@ Suerte!!
  
 ## 🧭 Ejercicios arduino
 
-📄 [Descargar aquí la ficha de ejercicios](docs/Ejercicios-ARDUINO.pdf)
+📄 [Descargar aquí la ficha de ejercicios](docs/ejercicios-arduino.pdf)
 
 
 
