@@ -10,14 +10,14 @@ En este apartado podeis encontrar todo el material que hemos visto en clase para
 Además os dejo enlaces a webs que os pueden ser de interés.
 
 ## 📌 Temario visto en clase
-📄 [Descargar aquí la teoría sobre circuitos electrónicos](docs/temario-CE.pdf)
+📄 [Descargar aquí la teoría sobre circuitos electrónicos](https://raw.githubusercontent.com/joapino08/TECNOLOGIA-Y-DIGITALIZACION/main/Temario-CE.pdf))
 
-📄 [Descargar aquí la teoría sobre arduino](docs/temario-ARDUINO.pdf)
+📄 [Descargar aquí la teoría sobre arduino](https://raw.githubusercontent.com/joapino08/TECNOLOGIA-Y-DIGITALIZACION/main/Temario-ARDUINO.pdf))
 
 ## 📌 Presentación
 También os dejo por aquí la presentación utilizada en clase: 
 
-📄 [Descargar aquí la teoría sobre circuitos electrónicos](docs/Presentacion.pdf)
+📄 [Descargar aquí la teoría sobre circuitos electrónicos](https://raw.githubusercontent.com/joapino08/TECNOLOGIA-Y-DIGITALIZACION/main/Presentacion.pdf))
 
 
 ## 📌 Material adicional
