@@ -12,6 +12,16 @@ En este apartado encontraras diferentes ejercicios para poner en práctica lo ap
 
 ---
 
+## 🧭 Escape Room
+Y si jugamos un poco?
+Vamos a comprobar lo aprendido jugando a un escape room, os dejo el enlace para acceder?
+
+https://view.genially.com/69de73952793ef5422ab368a
+
+📄 Tomad una captura del resultado del escape room de cada jugar y adjuntarlo en la memoria, adjuntad también una breve conclusión sobre los resultados obtenidos.
+
+Suerte!!
+
 ## 🧭 Ejercicios circuitos
 
 ### 1.	Dibuja un circuito básico con una Led y una pila.
