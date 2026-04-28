@@ -26,7 +26,7 @@ Suerte!!
 
 ## 📁 Ejercicios circuitos
 
-📄 [Descargar aquí la ficha de ejercicios](https://raw.githubusercontent.com/joapino08/TECNOLOGIA-Y-DIGITALIZACION/main/docs/Ejercicios-CE.pdf)
+📄 [Descargar aquí la ficha de ejercicios](https://raw.githubusercontent.com/joapino08/TECNOLOGIA-Y-DIGITALIZACION/main/Ejercicios-CE.pdf)
 
  
 ## 📁 Ejercicios arduino
