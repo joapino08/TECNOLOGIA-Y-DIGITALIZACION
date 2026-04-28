@@ -91,12 +91,12 @@ En esta parte de la asignatura vamos a trabajar un proyecto desde cero, vamos a 
 - Entrega de la memoria  
 - Presentación del proyecto en clase  
 
+## 📅 Documentación útil
 
-En esta página encontraras todo lo necesario para hacer nuestro proyecto.
-
+A continuación encontraras información útil para el desarrollo de la asignatura.
 
 ### 🧠 [Teoría](teoria.md)
-Tenemos los apuntes de clase para consultarlos cuando necesiteis.
+Los apuntes de clase para consultarlos cuando necesiteis.
 
 ### 💻 [Práctica](practica.md)
 Ejercicios para practicar lo aprendido.
