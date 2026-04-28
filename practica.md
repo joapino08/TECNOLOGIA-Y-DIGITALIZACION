@@ -31,29 +31,46 @@ En este apartado encontraras diferentes ejercicios para poner en práctica lo ap
 
 ### 2.	Explica que hace este código
 void setup()
+
 {
+
   pinMode(7, OUTPUT);
+  
 }
  
 void loop()
+
 {
+
   digitalWrite(7, HIGH);
+  
   delay(500);
+  
   digitalWrite(7, LOW);
+  
   delay(500);
+  
 }
 
 ### 3.	Explica que hace este código
+
 if (alumnos < 20) {
+
   digitalWrite(11, HIGH);
+  
 }
 
 ### 4.	Amplia el código anterior para que aparte de la función actual, apague el led conectado en el pin 11 cuando hay 20 o más alumnos en clase.
 
+
 ### 5.	Tenemos 3 leds (Led 1 rojo, Led 2 naranja, Led 3 Verde) conectados a los pines 10,11 y 12 respectivamente, estos leds nos van a indicar la calidad del aire en función del valor medido por un sensor de CO2 conectado en la entrada analógica A1.
+
 Los pines de salida deben nombrarse como Malo (Led rojo), Medio (Led naranja), Bueno (Led verde) en nuestro código.
+
 Si el CO2 está entre 0 y 15 la calidad del aire es Buena
+
 Si el CO2 está entre 16 y 20 la calidad del aire es Media
+
 Si el CO2 es superior a 20 la calidad del aire es Mala
 
 
