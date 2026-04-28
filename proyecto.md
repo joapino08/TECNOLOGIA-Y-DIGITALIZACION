@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nueva Página
+title: proyecto
 nav_order: 4
 ---
 
