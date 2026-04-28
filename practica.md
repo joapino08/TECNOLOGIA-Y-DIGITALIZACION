@@ -29,7 +29,7 @@ Suerte!!
 📄 [Descargar aquí la ficha de ejercicios](docs/Ejercicios-CE.pdf)
 
  
-## 🧭 Ejercicios arduino
+## 📁 Ejercicios arduino
 
 📄 [Descargar aquí la ficha de ejercicios](docs/ejercicios-arduino.pdf)
 
