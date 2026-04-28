@@ -45,5 +45,4 @@ https://www.lawebdelprogramador.com/cursos/Arduino/10024-Curso-Arduino-desde-cer
 Foros sobre arduino y cursos online
 https://forum.arduino.cc/t/curso-de-arduino-online-aprende-desde-tu-casa-oficina-a-tu-ritmo/278187
 
- 
-Si queréis más material, solo teneis que pedirlo y actualizo los enlaces!
+No os he puesto más enlaces por no sobrecargar, pero si alguien tiene curiosidad solo tiene que preguntar!
