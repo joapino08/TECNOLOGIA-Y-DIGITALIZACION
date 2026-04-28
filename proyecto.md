@@ -69,4 +69,9 @@ La memoria debe incluir:
 💡 Se valorará especialmente:
 - Claridad  
 - Orden  
-- Explicación propia (no copiar)  
+- Explicación propia (no copiar)
+
+
+## 📄 Enlace al guión del proyecto
+
+📄 [Descargar guón proyecto](docs/Guión-proyecto.pdf)
