@@ -101,7 +101,7 @@ Los apuntes de clase para consultarlos cuando necesiteis.
 ### 💻 [Práctica](practica.md)
 Ejercicios para practicar lo aprendido.
 
-### 🚀 [Proyecto](proyecto.md")
+### 🚀 [Proyecto](proyecto.md)
 Y por último, el guión del proyecto para seguir paso a paso
 
 ---
