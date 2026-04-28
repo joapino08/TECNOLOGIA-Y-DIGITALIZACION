@@ -91,7 +91,7 @@ En esta parte de la asignatura vamos a trabajar un proyecto desde cero, vamos a 
 - Entrega de la memoria  
 - Presentación del proyecto en clase  
 
-## 📅 Documentación útil
+## 💻 Documentación útil
 
 A continuación encontraras información útil para el desarrollo de la asignatura.
 
