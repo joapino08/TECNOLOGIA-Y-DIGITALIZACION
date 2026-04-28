@@ -1,6 +1,6 @@
 ---
 layout: default
-title: proyecto
+title: Proyecto
 nav_order: 4
 ---
 
