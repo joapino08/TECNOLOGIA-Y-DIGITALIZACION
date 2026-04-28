@@ -4,12 +4,6 @@ title: proyecto
 nav_order: 4
 ---
 
----
-layout: default
-title: Proyecto
-nav_order: 4
----
-
 # 🚀 PROYECTO: Sistema de iluminación automática con Arduino
 
 ---
