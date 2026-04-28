@@ -8,7 +8,9 @@ nav_order: 3
 
 ## 🎯 Objetivo
 
-En este apartado encontraras diferentes ejercicios para poner en práctica lo aprendido en la reoria.
+En este apartado encontrareis las fichas de ejercicios que hemos realizado en casa, conforme avancemos en el temario os subiré los solucionarios de las fichas.
+
+Además, os dejo un escape room con el que comprobar los conocimientos adquiridos.
 
 ---
 
@@ -22,7 +24,7 @@ https://view.genially.com/69de73952793ef5422ab368a
 
 Suerte!!
 
-## 🧭 Ejercicios circuitos
+## 📁 Ejercicios circuitos
 
 📄 [Descargar aquí la ficha de ejercicios](docs/Ejercicios-CE.pdf)
 
